@@ -1,0 +1,15 @@
+#MENU
+1,Margherita Pizza,500,Main
+3,Spicy Chicken Wings,400,Starter
+4,French Fries,200,Starter
+5,Chocolate Lava Cake,22,Dessert
+6,Cold Coffee,150,Beverage
+7,Vanilla Ice Cream,180,Dessert
+8,Veg Salad,220,Starter
+9,Chicken Biryani,450,Main
+10,Soft Drink,100,Beverage
+11,haha,44,starter
+#ORDERS
+john,1,2,1000,Mon Dec 01 12:28:59 2025
+Unzah,3,2,800,Mon Dec 01 20:58:37 2025
+Unzah,5,4,1800,Mon Dec 01 20:58:42 2025
